@@ -26,7 +26,7 @@ Since we are dealing with structured data here, I recommend to to use any Relati
 
 ## Legacy Implementation
 This approach uses indiviaul VM and can be implemented with all open source software except the VM cost.
-![Legacy](misc/legacy.png)
+![image](https://user-images.githubusercontent.com/86123183/144100504-9871e151-04c7-41b4-afc5-34634c0eb677.png)
 ### Infra Setup
 Terraform script that connects to specific cloud or VCenter that spin up the required VM.  The statefile can be stored in a remote backend like AWS S3 or Azure Storage Container
 
