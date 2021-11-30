@@ -52,7 +52,7 @@ CONS:
 
 
 ## Latest Implementation (Kubernetes)
-![Legacy](misc/k8s.png)
+![image](https://user-images.githubusercontent.com/86123183/144100416-303ea534-2b49-40cd-947c-39823092b4c1.png)
 Assuming that the company already have EKS/AKS/Rancher is setup
 
 ### Infra Setup
